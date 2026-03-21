@@ -1,0 +1,10 @@
+{
+  "name": "@ankitkr/namma-chaiwind",
+  "version": "1.0.2",
+  "description": "Bangalore chai inspired utility CSS framework",
+  "main": "src/chaiApply.js",
+  "type": "module",
+  "keywords": ["css", "chai", "utility"],
+  "author": "Ankit",
+  "license": "MIT"
+}
