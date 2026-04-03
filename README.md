@@ -12,13 +12,13 @@
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 👉 https://namma-tailwind.vercel.app  
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 <p align="center">
   <img src="./assets/preview.png" alt="Namma UI Preview" width="90%"/>
@@ -26,7 +26,7 @@
 
 ---
 
-## 📖 About the Project
+##  About the Project
 
 **Namma UI Project** is a lightweight frontend project built using **pure HTML and JavaScript**.
 
@@ -38,7 +38,7 @@ It focuses on:
 
 ---
 
-## ✨ Features
+##  Features
 
 - ⚡ Fast and lightweight  
 - 📱 Responsive design  
@@ -51,14 +51,14 @@ It focuses on:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML  
 - JavaScript  
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 Namma-Tailwind/
 │── src/
 │── assets/ # images
