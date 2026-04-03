@@ -21,7 +21,7 @@
 ##  Project Preview
 
 <p align="center">
-  <img src="./assets/preview.png" alt="Namma UI Preview" width="90%"/>
+  <img src="./assets/Screenshot 2026-04-03 180505.png" alt="Namma UI Preview" width="90%"/>
 </p>
 
 ---
