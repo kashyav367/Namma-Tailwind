@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -22,31 +21,28 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Namma UI Preview" width="90%"/>
+  <img src="./assets/preview.png" alt="Namma UI Preview" width="90%"/>
 </p>
-
-> ⚠️ Replace `YOUR_IMAGE_LINK_HERE` with your actual GitHub image URL
 
 ---
 
 ## 📖 About the Project
 
-**Namma UI Project** is a lightweight frontend project built using **pure HTML and JavaScript** without any frameworks.
+**Namma UI Project** is a lightweight frontend project built using **pure HTML and JavaScript**.
 
 It focuses on:
 - Building UI from scratch  
-- DOM manipulation using JavaScript  
-- Creating responsive layouts  
-- Writing clean and maintainable code  
+- DOM manipulation  
+- Responsive design  
+- Clean code  
 
 ---
 
 ## ✨ Features
 
 - ⚡ Fast and lightweight  
-- 📱 Fully responsive design  
-- 🧠 Interactive UI using JavaScript  
-- 🎨 Clean sections like:
+- 📱 Responsive design  
+- 🎨 UI sections:
   - Kadak Chai ☕  
   - Adrak Chai 🔥  
   - Bangalore Rain 🌧️  
@@ -63,3 +59,37 @@ It focuses on:
 ---
 
 ## 📁 Project Structure
+Namma-Tailwind/
+│── src/
+│── assets/ # images
+│── index.html
+│── package.json
+│── README.md
+
+---
+
+
+## Getting Started
+
+bash
+git clone https://github.com/your-username/Namma-Tailwind.git
+cd Namma-Tailwind
+
+ Open index.html in browser
+
+--
+##  Deployment
+
+Deployed using Vercel
+
+---
+
+## Author
+
+Ankit Kumar Singh
+
+---
+
+## Support
+
+Give a ⭐ if you like this project!
