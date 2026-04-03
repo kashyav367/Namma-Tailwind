@@ -78,8 +78,8 @@ cd Namma-Tailwind
  Open index.html in browser
 
 --
-##  Deployment
 
+##  Deployment
 Deployed using Vercel
 
 ---
